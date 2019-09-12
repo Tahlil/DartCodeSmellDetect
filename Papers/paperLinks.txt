@@ -1,0 +1,5 @@
+https://www.uni-obuda.hu/journal/Misra_31.pdf :citation 16
+https://pdfs.semanticscholar.org/fe33/ 160cd1db976330722de15a2b7099162e40bd.pdf :citation 3
+https://www.sciencedirect.com/science/article/pii/S2212017312005956 :citation 27
+http://www.cc.uah.es/drg/b/RodHarRama00.English.pdf :citation 66
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.8369&rep=rep1&type=pdf :citation 333
